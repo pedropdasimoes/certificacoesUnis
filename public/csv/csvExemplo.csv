@@ -1,0 +1,2 @@
+nome;cpf;email;referencia;melhorFormando;dataEmissao
+Nome Exemplo Do Formando;999.999.999-99;emailformando@hostdoformando.com;Referencia do Curso, exemplo ('123456');Se o candidato tiver sido o melhor da turma colocar o número 1, caso contrário o número 0;data de emissão do certificado neste forrmato ('00/00/0000')
